@@ -1,0 +1,19 @@
+commit 58a474cecc3cfa047d202ef54b64f1f6e76618a4 (HEAD -> logging, master)
+Author: ????? ??????? <jurukov.zharko@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:37:39 2018 +0100
+
+    modify l1.txt
+
+commit 13487cc854d28cd58ca27f67acb35fa0d434ba9b (origin/master)
+Author: ????? ??????? <jurukov.zharko@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:13:04 2018 +0100
+
+    modify l1.txt
+
+commit 8ed79fa0b6717739805e66f0382da094db0c3189
+Author: ????? ??????? <jurukov.zharko@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:10:34 2018 +0100
+
+    Initial commit
+
+131189@lab200ab-ws28 MINGW64 ~/lab1 (logging)
